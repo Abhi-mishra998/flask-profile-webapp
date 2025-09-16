@@ -5,6 +5,11 @@ This project demonstrates **Docker usage** and **containerized deployment on AWS
 
 <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/045c2541-909d-431a-93fe-f10e26e7edfe" />
 
+
+
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/6fc93803-c4ef-4b3e-ace9-bf6b296348a0" />
+
+
 ---
 
 ## 🚀 How to Run
