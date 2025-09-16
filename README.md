@@ -18,6 +18,8 @@ Copy code
 docker compose up --build -d
 Access the web app:
 
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/a2547789-f19b-480a-b53e-03e6f7cdf73d" />
+
 cpp
 Copy code
 http://<EC2-public-IP>/
