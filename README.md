@@ -3,6 +3,8 @@ Flask Profile WebApp
 A **single-container Flask web application** displaying my basic personal details.  
 This project demonstrates **Docker usage** and **containerized deployment on AWS EC2**.
 
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/045c2541-909d-431a-93fe-f10e26e7edfe" />
+
 ---
 
 ## 🚀 How to Run
@@ -18,7 +20,7 @@ Copy code
 docker compose up --build -d
 Access the web app:
 
-<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/a2547789-f19b-480a-b53e-03e6f7cdf73d" />
+
 
 cpp
 Copy code
